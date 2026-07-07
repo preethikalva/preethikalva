@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Preethi 👋
 
-<!--
-**preethikalva/preethikalva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's student in Computer Science at Southern Illinois University Edwardsville (SIUE)
+👩‍💻 Graduate Teaching Assistant | Full-Stack Development | Product-Focused Applications
 
-Here are some ideas to get you started:
+💻 I enjoy building full-stack applications that combine clean user experiences, thoughtful design, and reliable engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in:
+- Building user-focused software products
+- Frontend and full-stack development
+- Creating clean, responsive, and intuitive interfaces
+- Applying AI to improve user experiences
+
+---
+
+## 🛠 Tech Stack
+
+**Languages** - JavaScript • TypeScript • Python • Java • C++ • SQL
+
+**Frontend**  - React • Next.js • HTML • CSS • Tailwind CSS
+
+**Backend**   - Node.js • Express.js • Flask • Spring Boot • REST APIs
+
+**Databases** - PostgreSQL • MySQL • MongoDB
+
+**Tools**     - Git • Docker • AWS • Linux
+
+---
+
+## 📚 Currently Learning
+
+- Advanced React patterns
+- UI/UX principles for better product experiences
+- Scalable full-stack application design
+- Data structures & algorithms
+
+---
+
+## 📫 Connect
+
+LinkedIn: linkedin.com/in/preethikalva
+
+Email: preethikalva@gmail.com
+
+
+✨ Building, learning, and improving one project at a time.
