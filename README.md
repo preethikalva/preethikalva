@@ -1,11 +1,13 @@
 # Hi, I'm Preethi 👋
 
 🎓 Master's student in Computer Science at Southern Illinois University Edwardsville (SIUE)
+
 👩‍💻 Graduate Teaching Assistant | Full-Stack Development | Product-Focused Applications
 
 💻 I enjoy building full-stack applications that combine clean user experiences, thoughtful design, and reliable engineering.
 
-Interested in:
+## 💡 Interests
+
 - Building user-focused software products
 - Frontend and full-stack development
 - Creating clean, responsive, and intuitive interfaces
