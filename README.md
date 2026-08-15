@@ -1,48 +1,15 @@
-# Hi, I'm Preethi 👋
+Hi there! 👋
 
-🎓 Master's student in Computer Science at Southern Illinois University Edwardsville (SIUE)
+I'm Preethi, a full-stack software engineer based in Edwardsville, IL.
 
-👩‍💻 Graduate Teaching Assistant | Full-Stack Development | Product-Focused Applications
+I'm currently pursuing my M.S. in Computer Science at Southern Illinois University Edwardsville (GPA: 3.96/4.0), where I also work as a Graduate Teaching Assistant, supporting 40+ students in Data Structures, Algorithms, and Databases.
 
-💻 I enjoy building full-stack applications that combine clean user experiences, thoughtful design, and reliable engineering.
+I most recently worked as a Software Engineer Intern at Codal, building React/TypeScript features for a digital pharmacy platform, and previously as a Full-Stack Developer at WalkingTree Technologies, where I built Angular-based workflows for an education-finance platform.
 
-## 💡 Interests
+I enjoy working across the stack — from PostgreSQL data modeling to REST APIs to CI/CD deployment — and I've recently been diving into AI/LLM engineering, building RAG pipelines and semantic search systems.
 
-- Building user-focused software products
-- Frontend and full-stack development
-- Creating clean, responsive, and intuitive interfaces
-- Applying AI to improve user experiences
+🔭 Some things I've built:
 
----
-
-## 🛠 Tech Stack
-
-**Languages** - JavaScript • TypeScript • Python • Java • C++ • SQL
-
-**Frontend**  - React • Next.js • HTML • CSS • Tailwind CSS
-
-**Backend**   - Node.js • Express.js • Flask • Spring Boot • REST APIs
-
-**Databases** - PostgreSQL • MySQL • MongoDB
-
-**Tools**     - Git • Docker • AWS • Linux
-
----
-
-## 📚 Currently Learning
-
-- Advanced React patterns
-- UI/UX principles for better product experiences
-- Scalable full-stack application design
-- Data structures & algorithms
-
----
-
-## 📫 Connect
-
-LinkedIn: linkedin.com/in/preethikalva
-
-Email: preethikalva@gmail.com
-
-
-✨ Building, learning, and improving one project at a time.
+-Muse — a full-stack visual discovery platform (React, Next.js, PostgreSQL)
+-AI Career Assistant Dashboard - resume-to-job matching using semantic search & LLMs (FastAPI, LangChain, FAISS, Llama 3.1)
+-Collaborative Interactive Shell - a real-time multi-client terminal sharing tool over TCP sockets (Python, Linux PTY)
